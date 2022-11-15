@@ -12,7 +12,25 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️How can I help you?😉` //Costomize Alive Message (HI යාළු මේක bot group එකක්
+
+.𝗮𝗹𝗶𝘃𝗲  කොමාන්ඩ් බාවිත කරන්න.
+
+⚠️කන්ඩායම් නිති(𝗚𝗥𝗢𝗨𝗣 𝗥𝗨𝗘𝗟𝗦)
+
+1.කවුරුත් මොනම හේතුවකටවත් 🔞𝘃𝗶𝗱𝗼 𝗶𝗺𝗮𝗴𝗲 ඩවුන්ලොඩ් කරන්න බෑ💦
+
+2.කවුරුත් ස්පෑම් ගහන්න බෑ[එසෙ වුවහොත් බොට් විසින් ඔටො ඔබව 𝗿𝗲𝗺𝗼𝘃𝗲 කරයි⚠️
+
+3.කුනුහරප බෑ වලි බෑ ⚠️
+
+4.චැට් කිරිමට හැකි 🗣️
+
+5.𝗦𝗨𝗖𝗦𝗦𝗘
+
+https://chat.whatsapp.com/CjVWdZuJUx00OquhB7IePV
+
+link එක share කරල සහයෝගයක් දෙන්න...🪀 `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,8 +47,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94714916779'] // owner number
+global.ownername = "𝗦𝗘𝗪𝗠𝗜𝗡𝗔❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -38,17 +56,17 @@ global.location = "India, Mizoram, Aizawl" // location
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
-global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
+global.owner = ['+94741137944']
+global.ownertag = '+94714916779' //your tag number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
@@ -56,7 +74,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94714916779'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -162,7 +180,7 @@ global.ntilink = []
 
 // DO NOT CHANGE THIS. ERROR WARNING දාන්න තැනක් නැතුව මෙතන දැම්මෙ.
 global.rep = { // All Replies = 145
-    K1: '🫢හායි😁❤️',
+    K1: 'hi',
     K2: '🤭හූයි✌️💞🫶',
     K3: '😉🫶හායි😂',
     K4: '🥴හූයි😊',
